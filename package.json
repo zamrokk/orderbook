@@ -1,0 +1,24 @@
+{
+  "name": "orderbook",
+  "version": "1.0.0",
+  "description": "test for bitfinex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamrokk/orderbook.git"
+  },
+  "author": "zamrokk@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zamrokk/orderbook/issues"
+  },
+  "homepage": "https://github.com/zamrokk/orderbook#readme",
+  "dependencies": {
+    "grenache-grape": "^0.9.12",
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}
